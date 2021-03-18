@@ -1,2 +1,2 @@
-# git_example
+# Hello
 Project with Git
